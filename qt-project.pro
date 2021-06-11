@@ -37,6 +37,7 @@ HEADERS += \
 FORMS += \
     UIAdministrateur.ui \
     mainwindow.ui \
+    uiauthentification.ui \
     uietudiant.ui
 
 TRANSLATIONS += \

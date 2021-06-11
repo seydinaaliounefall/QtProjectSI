@@ -4,9 +4,7 @@
 #include <QMainWindow>
 
 QT_BEGIN_NAMESPACE
-namespace Ui {
-    class UIAuthentification;
-}
+namespace Ui { class UIAuthentification; }
 QT_END_NAMESPACE
 
 class UIAuthentification : public QMainWindow

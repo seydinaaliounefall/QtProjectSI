@@ -1,4 +1,6 @@
 #include "uiauthentification.h"
+#include "ui_uiauthentification.h"
+
 #include <QMessageBox>
 
 UIAuthentification::UIAuthentification(QWidget *parent)
